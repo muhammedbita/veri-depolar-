@@ -1,1 +1,31 @@
-deneme
+VERİ TİPLERİ
+
+Şuanda bilmemiz gereken veri tiplerini açıklamaya çalışacağım biraz özet geçeceğim.Programda örneklerde daha net görebileceğimiz için orada iyi anlayabiliriz.İlerleyen derslerimizde diğer veri tiplerini göstereceğim.
+
+--Integer(int)
+
+Türkçe manası tamsayı olan veri tipidir.Tamsayı türündeki değişkenler için kullanılır.Bellekte 4 byte yer kaplar.Bu da 32 bit kadardır. 
+
+--Short
+
+Boyutu 2 byte olan tamsayı türüdür.
+
+--Karakter Türü(char)
+
+Karakter türü 1 byte uzunluğundaki sayısal değerleri tutar.
+
+--Double
+
+Ondalıklı gerçek sayılar için kullanılır.Çok büyük sayılar için kullanılır.Bellekte 8 byte büyüklüğünde yer tutabilir.
+
+--Float
+
+Double haricinde ondalıklı sayılar için float da kullanılabilir.Bellekte double'dan daha az yer tutar(4 byte).
+
+--Değişken Nedir?
+
+Değişken tanımlama ise girilecek ve ya programın getireceği verinin ne olduğuna bağlı olarak değişken türünün belirlenmesidir. Örneğin girilecek verinin bir tamsayı olması halinde o değişkeni de tamsayı olarak tanımlamak gerekir.
+
+-----Örneğin 18 sayısı için;
+
+18 sayısı bir tamsayıdır.O halde int veri tipini kullanmamız gerekir.
